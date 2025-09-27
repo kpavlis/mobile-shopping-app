@@ -66,6 +66,19 @@ cd Android_Shopping_Application
 8. Run the project on Android Studio.
 
 
+## 📷 Screenshots
+
+**_App Screens:_**  
+> <img width="250" height="160" alt="screenshot_1" src="assets/Welcome_screenshot.png" />
+> <img width="250" height="160" alt="screenshot_2" src="assets/Sign_up_screenshot.png" />
+> <img width="250" height="160" alt="screenshot_3" src="assets/Product_list_screenshot.png" />
+> <img width="250" height="160" alt="screenshot_4" src="assets/Product_details_screenshot.png" />
+> <img width="250" height="160" alt="screenshot_5" src="assets/Shopping_bag_screenshot.png" />
+> <img width="250" height="160" alt="screenshot_6" src="assets/Shopping_bag_paid_message_screenshot.png" />
+> <img width="250" height="160" alt="screenshot_5" src="assets/App_Settings_screenshot.png" />
+> <img width="250" height="160" alt="screenshot_6" src="assets/Welcome_screenshot2.png" />
+
+
 ## 🔒 Code Ownership & Usage Terms
 This project was created and maintained by:
 
