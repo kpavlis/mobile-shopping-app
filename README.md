@@ -1,4 +1,4 @@
-## 🛍️Android Shopping Application.
+# 🛍️Android Shopping Application.
 **A mobile application for product search and purchase - built and designed for e-shops.**
 
 > ℹ️ This project is not open source and does not grant any usage rights.
@@ -79,7 +79,7 @@ cd Android_Shopping_Application
 > <img width="250" height="444" alt="screenshot_6" src="assets/Welcome_screenshot2.png" />
 
 
-## 🔒 Code Ownership & Usage Terms
+# 🔒 Code Ownership & Usage Terms
 This project was created and maintained by:
 
 Theofanis Tzoumakas (@theofanistzoumakas)
