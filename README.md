@@ -30,9 +30,9 @@ This application was created to provide a nice and easy-to-use experience to use
 
 ## 🧰 Prerequisites
 Before building and running this application, ensure you have the following:
- - Android studio (Ladybug 2024.2.1 or newer).
- - Firebase for Database, Authentication and Registration.
- - OPTIONALLY an Android device (min SDK version 31 -> Android version 12).
+ - Android studio (Ladybug 2024.2.1 or newer)
+ - Firebase for Database, Authentication and Registration
+ - OPTIONALLY an Android device (min SDK version 31 -> Android version 12)
 
 
 ## 📦 Installation
