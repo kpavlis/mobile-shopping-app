@@ -1,5 +1,5 @@
 ## 🛍️Android Shopping Application.
-A mobile application for product search and purchase - built and designed for e-shops.
+**A mobile application for product search and purchase - built and designed for e-shops.**
 
 > ℹ️ This project is not open source and does not grant any usage rights.
 > For usage terms and legal information, see [Code Ownership & Usage Terms](#-code-ownership--usage-terms).
@@ -88,8 +88,10 @@ Konstantinos Pavlis (@kpavlis)
 
 Michael-Panagiotis Kapetanios (@KapetaniosMP)
 
-🚫 Unauthorized use is strictly prohibited.
-No part of this codebase may be copied, reproduced, modified, distributed, or used in any form without explicit written permission from the owners.
+**🚫 Unauthorized use is strictly prohibited.**
+No part of this codebase may be copied, reproduced, modified, distributed, or used in any form without **explicit written permission** from the owners.
+
+Any attempt to use, republish, or incorporate this code into other projects—whether commercial or non-commercial—without prior consent may result in legal action.
 
 For licensing inquiries or collaboration requests, please contact via email: theftzoumi _at_ gmail _dot_ com .
 
