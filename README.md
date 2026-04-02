@@ -91,6 +91,6 @@ No part of this codebase may be copied, reproduced, modified, distributed, or us
 
 Any attempt to use, republish, or incorporate this code into other projects—whether commercial or non-commercial—without prior consent may result in legal action.
 
-For licensing inquiries or collaboration requests, please contact via email: theftzoumi _at_ gmail _dot_ com .
+For licensing inquiries or collaboration requests, please contact via email: theftzoumi _at_ gmail.com .
 
 © 2026  Theofanis Tzoumakas, Konstantinos Pavlis, Michael-Panagiotis Kapetanios. All rights reserved.
